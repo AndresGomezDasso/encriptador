@@ -1,0 +1,4 @@
+# encriptador
+
+
+en construccion
